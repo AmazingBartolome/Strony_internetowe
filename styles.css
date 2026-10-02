@@ -1,0 +1,54 @@
+#naglowek{
+    background-color: darkred;
+    color: white;
+    text-align: center;
+    padding: 3%;
+    font-family: 'Arial, Helvetica, sans-serif';
+    letter-spacing: 0.1%;
+}
+#naglowek h1 {
+   color: aquamarine; 
+   font-size: xx-small;
+   text-transform: lowercase;
+}   
+#naglowek p{
+    color: rgb(250, 0, 204);
+    font-size: xx-large;
+}
+#baner{
+    background-image: url(doggie.jpg);
+    background-size: cover;
+    background-position: center;
+    color: rgb(100, 64, 64);
+    text-align: center;
+    padding: 60px 20px;
+    text-shadow: 2px 2px 4px #000000;
+}
+#baner h2{
+font-weight: 200;
+font-size: xx-bold;
+line-height: 10cm;
+letter-spacing: 3px;
+text-transform: uppercase;
+word-spacing: 8px;
+
+}
+#baner p{
+font-size: 20px;
+font-style: italic;
+
+}
+#tresc{
+    width: 100%;
+    background-color:rgb(235, 10, 220);
+    padding: 20px 0;
+    min-height: 300px;
+    
+}
+.wpis{
+    width: 80%;
+    margin:15px auto;
+    background-color: #ffffff;
+    border-radius: 8px;
+
+}
